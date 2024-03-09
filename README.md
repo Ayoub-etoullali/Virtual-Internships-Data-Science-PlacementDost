@@ -29,7 +29,7 @@ For detailed implementation and code, refer to the Google Colab notebook [here](
 ## Usage
 
 1. Clone the repository:
-    git clone [<repository_url>](https://github.com/Ayoub-etoullali/Virtual-Internships-Data-Science-PlacementDost)
+    git clone https://github.com/Ayoub-etoullali/Virtual-Internships-Data-Science-PlacementDost
 
 2. Open the Google Colab notebook in your browser and follow the instructions for data loading, preprocessing, model training, and evaluation.
 
