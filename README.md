@@ -49,7 +49,7 @@ For detailed implementation and code, refer to the Google Colab notebook [here](
 
 3. Feel free to customize the model architecture, hyperparameters, or data preprocessing steps based on your requirements.
 
-## Project 2 : Bitcoin Price Prediction.ipynb
+## Project 2 : Bitcoin Price Prediction
 
 ### Overview : Trading Strategy: Mean Reversion Trading Strategy
 This trading strategy aims to capitalize on mean reversion by comparing the closing price of a stock with the mean of the high and low prices. The strategy involves making buy, sell, or hold decisions based on the relationship between the closing price and the mean of the high and low prices.
