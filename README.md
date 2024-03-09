@@ -70,6 +70,10 @@ This trading strategy aims to capitalize on mean reversion by comparing the clos
 6. **Transaction Costs**: Consider transaction costs, including commissions, fees, and slippage, which can impact profitability.
 7. **Continuous Monitoring**: Monitor the performance of the strategy and make adjustments as needed based on changing market conditions.
 
+### Google Colab Notebook
+
+For detailed implementation and code, refer to the Google Colab notebook [here](https://colab.research.google.com/drive/16G8sl1mAZlsgoDP_x69VtjcjrzRe4zNy?usp=sharing).
+
 ### Results
 - Evaluate the performance of the strategy based on metrics such as profitability, risk-adjusted returns, and drawdowns.
 - Compare the performance of the strategy against a benchmark index or buy-and-hold strategy.
